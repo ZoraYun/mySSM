@@ -1,0 +1,2 @@
+# mySSM
+eclipse
